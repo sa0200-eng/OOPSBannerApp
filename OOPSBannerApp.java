@@ -1,4 +1,4 @@
-public class BannerApp {
+public class OOPSBannerApp { 
 
     // Method for O
     public static String[] getOPattern() {
